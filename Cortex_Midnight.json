@@ -1,6 +1,6 @@
 {
   "name": "Cortex Midnight",
-  "description": "Native Midnight backgrounds, soft violet accents and a subtle CortexAnime chat wallpaper.",
+  "description": "Experimental OLED-dark colors with violet accents and anime chat wallpaper; Kettu 1.4.3 device testing required.",
   "authors": [
     {
       "name": "Cortex Connect"
@@ -23,6 +23,66 @@
     "TEXT_LINK": [
       "#C7A8FF",
       "#C7A8FF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "CHAT_BACKGROUND": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#101014",
+      "#101014"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#16151A",
+      "#16151A"
     ]
   },
   "rawColors": {
