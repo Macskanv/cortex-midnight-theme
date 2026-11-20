@@ -1,0 +1,20 @@
+{
+  "spec": 2,
+  "name": "Cortex panel diagnosztika 2",
+  "description": "IDEIGLENES: PANEL_BG narancs, APP_BACKGROUND türkiz. Teszt után válts vissza.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "semanticColors": {
+    "PANEL_BG": [
+      "#A34B17",
+      "#A34B17"
+    ],
+    "APP_BACKGROUND": [
+      "#077E82",
+      "#077E82"
+    ]
+  }
+}
