@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Anime Inbox (kísérleti)",
+  "description": "Experimental inbox artwork overlay. May not be compatible with Discord 329.0 / Kettu 1.4.3. No account data is collected.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "f233ed2c2f65a77aee60755d98adb64108b80aaab969f996aa7cdca5f45b965f"
+}
