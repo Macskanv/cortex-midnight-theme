@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Inbox render teszt",
+  "description": "Experimental diagnostic: counts render and image load events, no message contents.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "ab27270765a0f91478d89271173475db59a190a2234342464efec8135c3238fb"
+}
