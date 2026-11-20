@@ -10,4 +10,4 @@ Theme support, available color tokens, wallpaper opacity, and the appearance of 
 
 This is an independent fan project, not affiliated with or endorsed by Discord. Client modifications may violate Discord's terms and carry account/security risks.
 
-The default Midnight theme deliberately leaves background colors and wallpaper unchanged; it only overrides selected accents. The studio preview is illustrative and its wallpaper is not installed with the default theme.
+The default Midnight theme preserves native background colors, adds selected accents, and references an optional chat wallpaper. The preview is illustrative; actual wallpaper support and opacity depend on the client. A home-screen wallpaper is not implemented.
