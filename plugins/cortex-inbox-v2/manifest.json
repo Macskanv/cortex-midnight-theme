@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Anime Inbox v2",
+  "description": "Experimental. Searches for the inbox module after startup; disable to remove it.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "380f25c03e72cc4d05bf68dc52df09aa2b7a0f7988053e77c307e9d91619c915"
+}
