@@ -1,0 +1,64 @@
+{
+  "spec": 2,
+  "name": "Cortex színdiagnosztika",
+  "description": "IDEIGLENES: piros=zóna LOW, zöld=LOWER, kék=LOWEST, lila=channel, arany=card. Teszt után válts vissza.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_BASE_LOW": [
+      "#731520",
+      "#731520"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#155A26",
+      "#155A26"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#183A8A",
+      "#183A8A"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#741D76",
+      "#741D76"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#741D76",
+      "#741D76"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#866316",
+      "#866316"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#866316",
+      "#866316"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#866316",
+      "#866316"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#866316",
+      "#866316"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#866316",
+      "#866316"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#731520",
+      "#731520"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#155A26",
+      "#155A26"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#183A8A",
+      "#183A8A"
+    ]
+  }
+}
