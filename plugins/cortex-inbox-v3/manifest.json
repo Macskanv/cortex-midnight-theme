@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Anime Inbox v3 • diagnosztika",
+  "description": "Experimental; shows whether the inbox module was found.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "395ce95c7eb3b3f817d49d750b19329f8ce8d38c002073197b37b0802a8a2f06"
+}
