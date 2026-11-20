@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Inbox moduldiagnosztika",
+  "description": "Diagnostic only. Shows module export names; does not modify the interface.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "0747adfff4d3dac88ea01e169ec48923b7a535edebd8b911fdd932bdcf3db6f4"
+}
