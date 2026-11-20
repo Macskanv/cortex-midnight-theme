@@ -1,0 +1,136 @@
+{
+  "name": "Cortex Midnight",
+  "description": "Deep black surfaces, violet energy and electric cyan accents. Created for Cortex Connect.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "semanticColors": {
+    "KEYBOARD": [
+      "#090A10",
+      "#090A10"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#08090E",
+      "#08090E"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#101118",
+      "#101118"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0C0D13",
+      "#0C0D13"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#05060A",
+      "#05060A"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#262037",
+      "#262037"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#171520",
+      "#171520"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#08090E",
+      "#08090E"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#101118",
+      "#101118"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1C1927",
+      "#1C1927"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#252133",
+      "#252133"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#302642",
+      "#302642"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#35284D",
+      "#35284D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2B2537",
+      "#2B2537"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#302246",
+      "#302246"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A4A0B3",
+      "#A4A0B3"
+    ],
+    "CHANNEL_ICON": [
+      "#B894FF",
+      "#B894FF"
+    ],
+    "TEXT_NORMAL": [
+      "#F1EFF8",
+      "#F1EFF8"
+    ],
+    "TEXT_MUTED": [
+      "#A29BAC",
+      "#A29BAC"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#B8A2D4",
+      "#B8A2D4"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D7C5FF",
+      "#D7C5FF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#777083",
+      "#777083"
+    ],
+    "HEADER_PRIMARY": [
+      "#FAF8FF",
+      "#FAF8FF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B5ADBF",
+      "#B5ADBF"
+    ],
+    "CHAT_BACKGROUND": [
+      "#08090E",
+      "#08090E"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#9967F4",
+    "PRIMARY_100": "#F1EFF8",
+    "PRIMARY_200": "#D6D0E2",
+    "PRIMARY_300": "#B9A7D3",
+    "PRIMARY_360": "#A29BAC",
+    "PRIMARY_400": "#91889D",
+    "PRIMARY_500": "#595365",
+    "PRIMARY_600": "#24212D",
+    "PRIMARY_630": "#1C1924",
+    "PRIMARY_700": "#101118",
+    "PRIMARY_800": "#0B0C12",
+    "PRIMARY_900": "#06070B",
+    "WHITE_500": "#F7F4FF"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/main/cortex_anime_background.jpg",
+    "alpha": 0.55
+  }
+}
