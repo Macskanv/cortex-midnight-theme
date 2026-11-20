@@ -1,0 +1,152 @@
+{
+  "name": "Cortex Midnight • Moonlit Cat Embed Test",
+  "description": "Moonlit Cat with an experimental deep black-violet embed background.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHANNEL_ICON": [
+      "#AD84CD",
+      "#AD84CD"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C3A5DC",
+      "#C3A5DC"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F2EAF8",
+      "#F2EAF8"
+    ],
+    "TEXT_LINK": [
+      "#BE97DC",
+      "#BE97DC"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#030204",
+      "#030204"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#030204",
+      "#030204"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#030204",
+      "#030204"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#030205",
+      "#030205"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#08040B",
+      "#08040B"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#100A15",
+      "#100A15"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#1A1021",
+      "#1A1021"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#000000",
+      "#000000"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#100A15",
+      "#100A15"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#100A15",
+      "#100A15"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#100A15",
+      "#100A15"
+    ],
+    "CARD_MUTED_BG": [
+      "#0A070D",
+      "#0A070D"
+    ],
+    "CHAT_BANNER_BG": [
+      "#060408",
+      "#060408"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#140B1B",
+      "#140B1B"
+    ],
+    "CHAT_INPUT_BACKGROUND": [
+      "#140B1B",
+      "#140B1B"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#170D20",
+      "#170D20"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#0B070E",
+      "#0B070E"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#25132F",
+      "#25132F"
+    ],
+    "PANEL_BG": [
+      "#000000",
+      "#000000"
+    ],
+    "EMBED_BACKGROUND": [
+      "#0C0710",
+      "#0C0710"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#633784"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/af22239a04bdc3ec415c03a686beda644affcb95/cortex_black_violet_catgirl.jpg",
+    "blur": 0,
+    "alpha": 0.7
+  }
+}
