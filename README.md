@@ -9,3 +9,5 @@ Dark violet mobile theme concept with a custom anime wallpaper and an interactiv
 Theme support, available color tokens, wallpaper opacity, and the appearance of the theme depend on the client and version. This theme has not been tested in a real Discord mobile client. The JSON adjusts colors and references a wallpaper; it does not install custom icon shapes, animations, or a plugin loader.
 
 This is an independent fan project, not affiliated with or endorsed by Discord. Client modifications may violate Discord's terms and carry account/security risks.
+
+The default Midnight theme deliberately leaves background colors and wallpaper unchanged; it only overrides selected accents. The studio preview is illustrative and its wallpaper is not installed with the default theme.
