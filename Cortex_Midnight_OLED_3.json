@@ -1,0 +1,148 @@
+{
+  "name": "Cortex Midnight • OLED 3",
+  "description": "Cortex OLED 3: black panels, violet accents and anime chat background. Test on Kettu iOS.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHANNEL_ICON": [
+      "#BA9EED",
+      "#BA9EED"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#CBB5EF",
+      "#CBB5EF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F5F0FF",
+      "#F5F0FF"
+    ],
+    "TEXT_LINK": [
+      "#C7A8FF",
+      "#C7A8FF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "CHAT_BACKGROUND": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#101014",
+      "#101014"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#16151A",
+      "#16151A"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#080809",
+      "#080809"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#080809",
+      "#080809"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#15141A",
+      "#15141A"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#15141A",
+      "#15141A"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#15141A",
+      "#15141A"
+    ],
+    "CARD_MUTED_BG": [
+      "#101014",
+      "#101014"
+    ],
+    "CHAT_BANNER_BG": [
+      "#0B0A0E",
+      "#0B0A0E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#131218",
+      "#131218"
+    ],
+    "CHAT_INPUT_BACKGROUND": [
+      "#131218",
+      "#131218"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#15141A",
+      "#15141A"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#101014",
+      "#101014"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#201A28",
+      "#201A28"
+    ],
+    "PANEL_BG": [
+      "#080809",
+      "#080809"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#9370D5"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/main/cortex_anime_background.jpg",
+    "blur": 0,
+    "alpha": 0.22
+  }
+}
