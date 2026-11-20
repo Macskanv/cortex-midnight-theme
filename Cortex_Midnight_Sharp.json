@@ -1,0 +1,156 @@
+{
+  "name": "Cortex Midnight • Sharp",
+  "description": "OLED black, deep violet accents and sharper anime chat wallpaper. Experimental.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHANNEL_ICON": [
+      "#BA91DB",
+      "#BA91DB"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C4A7E1",
+      "#C4A7E1"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F2EAF8",
+      "#F2EAF8"
+    ],
+    "TEXT_LINK": [
+      "#CCA8F0",
+      "#CCA8F0"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "CHAT_BACKGROUND": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#050506",
+      "#050506"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#08080A",
+      "#08080A"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#07060A",
+      "#07060A"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#0A080D",
+      "#0A080D"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#17121D",
+      "#17121D"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#211829",
+      "#211829"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#080809",
+      "#080809"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#080809",
+      "#080809"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#16111C",
+      "#16111C"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#16111C",
+      "#16111C"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#16111C",
+      "#16111C"
+    ],
+    "CARD_MUTED_BG": [
+      "#101014",
+      "#101014"
+    ],
+    "CHAT_BANNER_BG": [
+      "#0B0A0E",
+      "#0B0A0E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#191322",
+      "#191322"
+    ],
+    "CHAT_INPUT_BACKGROUND": [
+      "#191322",
+      "#191322"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#1B1523",
+      "#1B1523"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#120E17",
+      "#120E17"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#2A1E35",
+      "#2A1E35"
+    ],
+    "PANEL_BG": [
+      "#080709",
+      "#080709"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#191322",
+      "#191322"
+    ],
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+      "#191322",
+      "#191322"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#7954A2"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/main/cortex_anime_sharp.jpg",
+    "blur": 0,
+    "alpha": 0.42
+  }
+}
