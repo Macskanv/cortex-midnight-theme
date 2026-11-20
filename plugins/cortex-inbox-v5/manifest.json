@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Inbox modul típus teszt",
+  "description": "Diagnostic only: reports export types; no screen changes.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "17d6024c294a4217ff5ab6f62e0198916072039824e1e3691f7c5c762408f798"
+}
