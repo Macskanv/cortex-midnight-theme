@@ -1,6 +1,6 @@
 {
   "name": "Cortex Midnight",
-  "description": "Experimental OLED-dark colors with violet accents and anime chat wallpaper; Kettu 1.4.3 device testing required.",
+  "description": "OLED black, deep violet accents and a CortexAnime chat wallpaper.",
   "authors": [
     {
       "name": "Cortex Connect"
@@ -9,20 +9,20 @@
   "spec": 2,
   "semanticColors": {
     "CHANNEL_ICON": [
-      "#BA9EED",
-      "#BA9EED"
+      "#AB87D1",
+      "#AB87D1"
     ],
     "INTERACTIVE_NORMAL": [
-      "#CBB5EF",
-      "#CBB5EF"
+      "#C4A7E1",
+      "#C4A7E1"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#F5F0FF",
-      "#F5F0FF"
+      "#F2EAF8",
+      "#F2EAF8"
     ],
     "TEXT_LINK": [
-      "#C7A8FF",
-      "#C7A8FF"
+      "#BE99E3",
+      "#BE99E3"
     ],
     "BACKGROUND_PRIMARY": [
       "#050506",
@@ -69,28 +69,80 @@
       "#000000"
     ],
     "BACKGROUND_BASE_LOWER": [
-      "#050506",
-      "#050506"
+      "#07060A",
+      "#07060A"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#08080A",
-      "#08080A"
+      "#0A080D",
+      "#0A080D"
     ],
     "BACKGROUND_SURFACE_HIGH": [
+      "#15101B",
+      "#15101B"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#1D1725",
+      "#1D1725"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#080809",
+      "#080809"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#080809",
+      "#080809"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#15111B",
+      "#15111B"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#15111B",
+      "#15111B"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#15111B",
+      "#15111B"
+    ],
+    "CARD_MUTED_BG": [
       "#101014",
       "#101014"
     ],
-    "BACKGROUND_SURFACE_HIGHEST": [
-      "#16151A",
-      "#16151A"
+    "CHAT_BANNER_BG": [
+      "#0B0A0E",
+      "#0B0A0E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#131218",
+      "#131218"
+    ],
+    "CHAT_INPUT_BACKGROUND": [
+      "#18131D",
+      "#18131D"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#1B1523",
+      "#1B1523"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#100D14",
+      "#100D14"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#281C32",
+      "#281C32"
+    ],
+    "PANEL_BG": [
+      "#080709",
+      "#080709"
     ]
   },
   "rawColors": {
-    "BRAND_500": "#9370D5"
+    "BRAND_500": "#7954A2"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/main/cortex_anime_background.jpg",
     "blur": 0,
-    "alpha": 0.22
+    "alpha": 0.3
   }
 }
