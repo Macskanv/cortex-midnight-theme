@@ -1,6 +1,6 @@
 {
   "name": "Cortex Midnight",
-  "description": "Preserves native Midnight backgrounds with subtle violet accents and readable text.",
+  "description": "Native Midnight backgrounds, soft violet accents and a subtle CortexAnime chat wallpaper.",
   "authors": [
     {
       "name": "Cortex Connect"
@@ -27,5 +27,10 @@
   },
   "rawColors": {
     "BRAND_500": "#9370D5"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Macskanv/cortex-midnight-theme/main/cortex_anime_background.jpg",
+    "blur": 0,
+    "alpha": 0.22
   }
 }
