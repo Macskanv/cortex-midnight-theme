@@ -1,0 +1,11 @@
+{
+  "name": "Cortex Anime Inbox v6 • próba",
+  "description": "Experimental inbox overlay for Discord 329.0 and Kettu. May not work or affect readability.",
+  "authors": [
+    {
+      "name": "Cortex Connect"
+    }
+  ],
+  "main": "index.js",
+  "hash": "1a96a4561716d49690b388dac07e808d14307dc4d41c728a07e32c01bb0fec3d"
+}
